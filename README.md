@@ -1,2 +1,5 @@
 # MP_Attendance
-attendance management python system
+Features:
+• Add/Delete students using a unique Student ID.
+• Click a student row and hit 'Mark Present' or 'Mark Absent'.
+• Names auto-sort into specific group boxes in real-time.
